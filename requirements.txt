@@ -1,0 +1,4 @@
+Flask
+azure-cognitiveservices-speech
+azure-ai-textanalytics
+requests
