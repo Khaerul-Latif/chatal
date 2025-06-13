@@ -1,0 +1,4 @@
+Flask==3.1.1
+azure-ai-textanalytics==5.3.0
+azure-cognitiveservices-speech==1.44.0
+requests==2.31.0
